@@ -1,2 +1,2 @@
-ArduinoStarterKit
-=================
+Arduino Starter Kit Examples
+============================
